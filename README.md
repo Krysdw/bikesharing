@@ -1,1 +1,58 @@
 # bikesharing
+
+NYC Bike Sharing Analysis
+
+Overview
+
+The purpose of the NYC Bike Sharing Analysis is to help investors determine whether a Bike – sharing program in Des Moines, Iowa is a solid investment. 
+
+
+Results
+
+
+Gender
+The population of Des Moines, Iowa is about 40,255 people with 19,778 male and 20,477 female. There are 699 more women than men in the county. 
+
+There is also a higher percentage of women to men in NYC’s population. 
+
+The data from NYC’s bike – sharing program shows a percentage of male users (and considerable subscribers) over their female counterparts
+
+
+
+The NYC Bike – Sharing data also shows a large number of rides per gender specifically on Tuesdays and Thursdays. With the most rides being on Tuesdays, Thursdays, Fridays, and Saturdays for all genders respectively. 
+
+Time of Day
+
+The busiest times of day for NYC Bike – sharing for all genders is between the times of 8am and 5-6pm during the week and relatively 12noon on the weekends. Tuesdays and Thursdays again, being the busiest days for all genders during the week. 
+
+
+
+
+While there are considerably more male than female riders on any given day, the data is consistent amongst the genders for the busiest days and time.
+
+
+
+
+Additionally, the checkout times by gender are considerably higher for male users than female users. 
+
+ 
+Summary
+
+The data shows that a Bike – sharing investment would bring in high daily profits with peak times being during what would be considered rush hour (8am and 5-6 pm). The percentage of male riders supersedes that of the female riders though the peak times are consistent for both genders. 
+
+
+The data also shows profitability with regular subscribers over non subscribing customers. There are over 2.3 million trips reported for the month of August. The specific revenue cannot be determined from the data, however based on the number of rides, peak times, and age ranges; a bike – sharing program amongst the popular trails in Des Moines, Iowa would be a good investment. 
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
