@@ -42,6 +42,10 @@ The data shows that a Bike – sharing investment would bring in high daily prof
 
 
 The data also shows profitability with regular subscribers over non subscribing customers. There are over 2.3 million trips reported for the month of August. The specific revenue cannot be determined from the data, however based on the number of rides, peak times, and age ranges; a bike – sharing program amongst the popular trails in Des Moines, Iowa would be a good investment. 
+
+
+Tableau Bikeshare: https://public.tableau.com/app/profile/krystle.west/viz/NYCBikeTripStory_16581098551900/NYCBikeTripStory
+
 Footer
 © 2022 GitHub, Inc.
 Footer navigation
